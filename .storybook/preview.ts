@@ -1,9 +1,5 @@
-// import "../styles/colors.css";
-// import "../styles/globals.css";
-// import Wrapper from "./wrapper";
+import "../styles/globals.css";
 
 export const parameters = {
     layout: "fullscreen",
 };
-
-// export const decorators = [Wrapper];
